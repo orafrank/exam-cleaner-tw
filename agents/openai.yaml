@@ -1,0 +1,10 @@
+interface:
+  display_name: "Exam Cleaner TW"
+  short_description: "清除台灣考卷手寫與批改痕跡並保留原始印刷內容"
+  icon_small: "./assets/icon.svg"
+  icon_large: "./assets/icon.svg"
+  brand_color: "#2563EB"
+  default_prompt: "Use $exam-cleaner-tw to remove handwriting and grading marks from this exam while preserving the printed content."
+
+policy:
+  allow_implicit_invocation: true
